@@ -1,5 +1,5 @@
 <h3 align="center" style="border: none">
-  <img src="https://www.arcticos.org/images/Github.png" height="150px" />
+  <img src="https://www.arcticos.org/images/Github.png" width="650px" />
 </h3>
 
 <h3 align="center" style="font-weight: 300">
